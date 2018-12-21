@@ -1,7 +1,7 @@
 # jokes
 this application uses jokes api to retrieve jokes as many user wanted. 
 
-#how to use
+### how to use
 
 as the home activity opens user needs to enter no of jokes he wanted then click on get jokes button,app will redirect to another activtiy where it uses the url of jokes api to get the number of jokes user requested and displays them in a recyclerview.
 
